@@ -1,9 +1,9 @@
 ## Accomplishments and Happenings
 ---
 
-### Hack The Gap - Hackathon 
+### Hack The Gap - Fall 2022 Hackathon 
 
-[First Place](https://www.hackthegap.com/blog/hackathon-fall-2022)
+[1st Place: FundFare - App integration to provide free transit rides to citizens in need Team: Aaliyah Dick, Kendra Plant, Pandora Vang, Denise Lor](https://www.hackthegap.com/blog/hackathon-fall-2022)
 <img src="images/hack the gap hackathon first place winners.png?raw=true"/>
 
 1st Place: FundFare - App integration to provide free transit rides to citizens in need
