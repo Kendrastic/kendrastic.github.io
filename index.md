@@ -20,21 +20,12 @@ FundFare is an app that partners with metropolitan citizens to pay their rides f
 ### Project+ Certification: Spring 2022
 
 [Project Management Certified](kendrastic.github.io/project_management)
-<img src="images/CompTIA Project+ certificate.pdf?raw=true"/>
+<img src="images/kendra-plant-raspberrypi.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+<img src="ProjectPlus_logo.jpg?raw=true"/>
+<img src="images/NetworkPlus_logo.jpg?raw=true"/>
+<img src="images/Infrastructure_logo.jpg?raw=true"/>
+<img src="images/Aplus_logo.jpg?raw=true"/>
 
 
 ---
