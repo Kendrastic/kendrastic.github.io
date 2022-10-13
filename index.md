@@ -26,11 +26,10 @@ Coding Technologies: JavaScript, Python, Java, MongoDB, Express, React, Node, CS
 [Project Management Certified](kendrastic.github.io/project_management)
 <img src="images/kendra-plant-raspberrypi.jpg?raw=true"/>
 
-<img src="ProjectPlus_logo.jpg?raw=true"/>
-<img src="images/NetworkPlus_logo.jpg?raw=true"/>
-<img src="images/Infrastructure_logo.jpg?raw=true"/>
-<img src="images/Aplus_logo.jpg?raw=true"/>
-
+<img src="images/ProjectPlus_logo.jpg?raw=true" alt="CompTIA Project+ Certified" width="200"/>
+<img src="images/NetworkPlus_logo.jpg?raw=true" alt="CompTIA Network+ Certified" width="200"/>
+<img src="images/Infrastructure_logo.jpg?raw=true" alt="CompTIA IT Specialist Certified" width="200"/>
+<img src="images/Aplus_logo.jpg?raw=true" alt="CompTIA A+ Certified" width="200"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
