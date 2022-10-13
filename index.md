@@ -28,7 +28,6 @@ Coding Technologies: JavaScript, Python, Java, MongoDB, Express, React, Node, CS
 
 <img src="images/ProjectPlus_logo.jpg?raw=true" alt="CompTIA Project+ Certified" width="125"/>
 <img src="images/NetworkPlus_logo.jpg?raw=true" alt="CompTIA Network+ Certified" width="125"/>
-<img src="images/Infrastructure_logo.jpg?raw=true" alt="CompTIA IT Specialist Certified" width="125"/>
 <img src="images/Aplus_logo.jpg?raw=true" alt="CompTIA A+ Certified" width="125"/>
 
 ---
