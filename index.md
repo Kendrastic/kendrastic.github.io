@@ -12,7 +12,11 @@ FundFare is an app that partners with metropolitan citizens to pay their rides f
 ---
 
 ### Coding Dojo Graduate: Summer 2022
-[Coding Dojo Graduate: Summer 2022](kendrastic.github.io/coding_bootcamp)
+
+Full-Time - Full-Stack Software Development Graduate
+Over 560 hours of coding: May 2022 - Aug 2022
+Coding Technologies: JavaScript, Python, Java, MongoDB, Express, React, Node, CSS, HTML, VS Code, Spring, MySQL, Postman, Github and Git.
+[Coding Dojo Full-Stack Bootcamp Graduate](kendrastic.github.io/coding_bootcamp)
 <img src="images/dojo diploma.png?raw=true"/>
 
 ---
