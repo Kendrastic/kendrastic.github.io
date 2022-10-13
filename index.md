@@ -10,12 +10,17 @@ FundFare is an app that partners with metropolitan citizens to pay their rides f
 [Read more on the Hack The Gap blog](https://www.hackthegap.com/blog/hackathon-fall-2022)
 <img src="images/hack the gap hackathon first place winners.png?raw=true"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Coding Dojo Graduate: Summer 2022
+[Coding Dojo Graduate: Summer 2022](kendrastic.github.io/coding_bootcamp)
+<img src="images/dojo diploma.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Project+ Certification: Spring 2022
+
+[Project Management Certified](kendrastic.github.io/project_management)
+<img src="images/CompTIA Project+ certificate.pdf?raw=true"/>
 
 ---
 
