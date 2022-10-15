@@ -24,7 +24,11 @@ Coding Technologies: JavaScript, Python, Java, MongoDB, Express, React, Node, CS
 ### Project+ Certification: Spring 2022
 
 [Project Management Certified](kendrastic.github.io/project_management)
-[Read an interview with me on the CompTIA Tech Career Academy about my success in getting my first full-time tech job](https://www.comptiatech.org/blog/arts-manager-turns-it-pro?fbclid=IwAR07zIm4PXz0k2RCdRTz_ZCJH0QBpe75Ggo7h8754jv-9we9qxHlbnBNao4)
+The CompTIA Project+ examination is designed for IT professionals who coordinate or manage small-to-medium-sized projects. 
+#ProjectBasics #ProjectConstraints #Communication #ChangeManagement #ProjectTools #Documentation
+
+Read more about my success getting my A+ Certification and achieving my first full-time tech job:
+[CompTIA Tech Career Academy Interview](https://www.comptiatech.org/blog/arts-manager-turns-it-pro?fbclid=IwAR07zIm4PXz0k2RCdRTz_ZCJH0QBpe75Ggo7h8754jv-9we9qxHlbnBNao4)
 <img src="images/kendra-plant-raspberrypi.jpg?raw=true"/>
 
 <img src="images/ProjectPlus_logo.jpg?raw=true" alt="CompTIA Project+ Certified" width="125"/>
